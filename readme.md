@@ -36,7 +36,7 @@ Iska design friendly robot-style hai jo fast, simple aur modern experience deta 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/bureau_ai_agent
+git clone https://github.com/CodeWithShivanshu/Bureau-AI-Agent.git
 cd agents
-pip install -r requirements.txt
+adk web ## for run the agent
 
